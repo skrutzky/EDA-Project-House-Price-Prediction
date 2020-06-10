@@ -1,4 +1,4 @@
-by Sandra Schwegmann, Sandra.Schwegmann@gmx.net
+by Sandra Schwegmann
 
 
 ## Variable description 
