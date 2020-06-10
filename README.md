@@ -1,5 +1,3 @@
-by Sandra Schwegmann
-
 
 ## Variable description 
 * Describes the variables in the King Country House Price Data set and newly created ones
